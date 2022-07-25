@@ -1,0 +1,10 @@
+nameQL,countResults
+startItem,-1
+AlertSuppression.ql,1
+NewArrayDeleteMismatch.ql,1
+ReturnValueIgnored.ql,22
+DescriptorMayNotBeClosed.ql,1
+LargeParameter.ql,1
+OverflowDestination.ql,53
+MemoryMayNotBeFreed.ql,-1
+Unused.ql,2604
