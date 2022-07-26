@@ -99,6 +99,12 @@ IncorrectChangingWorkingDirectory.ql,1
 LateCheckOfFunctionArgument.ql,1
 NoCheckBeforeUnsafePutUser.ql,1
 InsecureTemporaryFile.ql,1
+OperatorPrecedenceLogicErrorWhenUseBoolType.ql,1
+OperatorPrecedenceLogicErrorWhenUseBitwiseOrLogicalOperations.ql,1
+PamAuthorization.ql,1
+MemoryLeakOnFailedCallToRealloc.ql,32
+DangerousUseOfExceptionBlocks.ql,1
+DeclarationOfVariableWithUnnecessarilyWideScope.ql,1
 MemoryMayNotBeFreed.ql,-1
 FileMayNotBeClosed.ql,-1
 GlobalUseBeforeInit.ql,-1
@@ -111,9 +117,3 @@ ImproperCheckReturnValueScanf.ql,-1
 FindIncorrectlyUsedSwitch.ql,-1
 IncorrectPrivilegeAssignment.ql,-1
 FindWrapperFunctions.ql,-1
-OperatorPrecedenceLogicErrorWhenUseBoolType.ql,1
-OperatorPrecedenceLogicErrorWhenUseBitwiseOrLogicalOperations.ql,1
-PamAuthorization.ql,1
-MemoryLeakOnFailedCallToRealloc.ql,32
-DangerousUseOfExceptionBlocks.ql,1
-DeclarationOfVariableWithUnnecessarilyWideScope.ql,1
