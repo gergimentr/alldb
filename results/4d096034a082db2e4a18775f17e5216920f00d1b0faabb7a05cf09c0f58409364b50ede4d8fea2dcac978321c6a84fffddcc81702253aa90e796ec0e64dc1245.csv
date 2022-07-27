@@ -117,3 +117,4 @@ ImproperCheckReturnValueScanf.ql,-1
 FindIncorrectlyUsedSwitch.ql,-1
 IncorrectPrivilegeAssignment.ql,-1
 FindWrapperFunctions.ql,-1
+UndefinedOrImplementationDefinedBehavior.ql,-1
