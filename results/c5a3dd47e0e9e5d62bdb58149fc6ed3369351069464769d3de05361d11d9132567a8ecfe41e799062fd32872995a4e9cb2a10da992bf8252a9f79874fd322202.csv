@@ -39,7 +39,7 @@ TaintedFormatStrings.ql,3
 TaintedPath.ql,32
 UnsignedDifferenceExpressionComparedZero.ql,1
 TOCTOUFilesystemRace.ql,8
-IRUntrustedDataToExternalAPI.ql,-1
+IRUntrustedDataToExternalAPI.ql,421
 CountUntrustedDataToExternalAPI.ql,38
 UntrustedDataToExternalAPI.ql,113
 IRCountUntrustedDataToExternalAPI.ql,63
@@ -71,9 +71,9 @@ OverrunWrite.ql,1
 CgiXss.ql,1
 NoSpaceForZeroTerminator.ql,1
 ArithmeticWithExtremeValues.ql,1
-ArithmeticTainted.ql,2052
+ArithmeticTainted.ql,2174
 ArithmeticUncontrolled.ql,1
-IntegerOverflowTainted.ql,3627
+IntegerOverflowTainted.ql,3929
 TaintedAllocationSize.ql,1
 ComparisonWithWiderType.ql,1
 ConditionallyUninitializedVariable.ql,9
@@ -84,11 +84,11 @@ UnsafeDaclSecurityDescriptor.ql,1
 OpenCallMissingModeArgument.ql,1
 DoNotCreateWorldWritable.ql,30
 PotentiallyExposedSystemData.ql,1
-ExposedSystemData.ql,1
+ExposedSystemData.ql,37
 ExecTainted.ql,1
 UncontrolledFormatString.ql,1
 UncontrolledFormatStringThroughGlobalVar.ql,1
-ImproperArrayIndexValidation.ql,761
+ImproperArrayIndexValidation.ql,791
 ImproperNullTerminationTainted.ql,11
 CleartextSqliteDatabase.ql,1
 AuthenticationBypass.ql,121
