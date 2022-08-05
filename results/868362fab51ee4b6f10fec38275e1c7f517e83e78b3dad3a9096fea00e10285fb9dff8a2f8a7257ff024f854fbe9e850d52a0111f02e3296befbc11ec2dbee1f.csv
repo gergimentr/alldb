@@ -13,7 +13,7 @@ FileMayNotBeClosed.ql,1
 GlobalUseBeforeInit.ql,18
 NotInitialised.ql,11
 UseAfterFree.ql,1
-MemoryNeverFreed.ql,1882
+MemoryNeverFreed.ql,1880
 OverflowCalculated.ql,1
 NewDeleteArrayMismatch.ql,1
 DeadCodeFunction.ql,66
@@ -215,7 +215,7 @@ RuleOfThree.ql,4112
 SwitchLongCase.ql,1
 ComplexCondition.ql,1
 RuleOfTwo.ql,15
-NVI.ql,1546
+NVI.ql,1545
 SloppyGlobal.ql,1
 NVIHub.ql,68
 JapaneseEraDate.ql,1
