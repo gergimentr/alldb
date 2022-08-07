@@ -46,9 +46,10 @@ os.system("mkdir -p "+longUrl2+"semmle/tests/")
 os.system('find /opt/codeqlmy/codeql-repo/cpp/ql/src/ -name \*.qll -exec cp {} '+longUrl1+' \;')
 os.system('find /opt/codeqlmy/codeql-repo/cpp/ql/src/Security/CWE/CWE-020/ir/ -name \*.qll -exec cp {} '+longUrl1+'ir/ \;')
 
-countError = 0
+
 with open(folderName1+fileName1) as file:
     for line in file:
+        countError = 0
         urlfordownload = line.rstrip()
         filecsvname = line.rstrip().split('/')[-1].split('?')[0]
         os.system('rm -rf '+folddb)
@@ -82,7 +83,7 @@ with open(folderName1+fileName1) as file:
             if querySELECT.split('/')[-1] in data['nameQL']:
                 if data['countResults'][data['nameQL'].index(querySELECT.split('/')[-1])]==-1:
 
-                    if countError>1:
+                    if countError>3:
                         continue
                     else:
                         countError += 1
