@@ -10,7 +10,6 @@ MemoryMayNotBeFreed.ql,955
 Unused.ql,1801
 InconsistentNullnessTesting.ql,203
 FileMayNotBeClosed.ql,17
-GlobalUseBeforeInit.ql,-1
 NotInitialised.ql,215
 UseAfterFree.ql,1
 MemoryNeverFreed.ql,85
@@ -105,11 +104,9 @@ ImproperCheckReturnValueScanf.ql,3
 ExposureSensitiveInformationUnauthorizedActor.ql,1
 UnsignedToSignedPointerArith.ql,1
 IncorrectChangingWorkingDirectory.ql,1
-FindIncorrectlyUsedSwitch.ql,-1
 LateCheckOfFunctionArgument.ql,2
 NoCheckBeforeUnsafePutUser.ql,1
 InsecureTemporaryFile.ql,1
-IncorrectPrivilegeAssignment.ql,-1
 FindWrapperFunctions.ql,10
 OperatorPrecedenceLogicErrorWhenUseBoolType.ql,1
 OperatorPrecedenceLogicErrorWhenUseBitwiseOrLogicalOperations.ql,1
@@ -250,3 +247,6 @@ FixmeComments.ql,3
 CommentedOutCode.ql,813
 DocumentApi.ql,2253
 TodoComments.ql,134
+GlobalUseBeforeInit.ql,-1
+FindIncorrectlyUsedSwitch.ql,-1
+IncorrectPrivilegeAssignment.ql,-1

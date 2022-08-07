@@ -10,7 +10,6 @@ MemoryMayNotBeFreed.ql,160
 Unused.ql,156
 InconsistentNullnessTesting.ql,12
 FileMayNotBeClosed.ql,23
-GlobalUseBeforeInit.ql,-1
 NotInitialised.ql,289
 UseAfterFree.ql,1
 MemoryNeverFreed.ql,10
@@ -250,3 +249,4 @@ FixmeComments.ql,83
 CommentedOutCode.ql,610
 DocumentApi.ql,4304
 TodoComments.ql,156
+GlobalUseBeforeInit.ql,409

@@ -105,10 +105,6 @@ PamAuthorization.ql,1
 MemoryLeakOnFailedCallToRealloc.ql,32
 DangerousUseOfExceptionBlocks.ql,1
 DeclarationOfVariableWithUnnecessarilyWideScope.ql,1
-MemoryMayNotBeFreed.ql,-1
-FileMayNotBeClosed.ql,-1
-GlobalUseBeforeInit.ql,-1
-InitialisationNotRun.ql,-1
 DescriptorNeverClosed.ql,-1
 ReturnStackAllocatedObject.ql,-1
 Debug.ql,-1
@@ -250,3 +246,7 @@ FixmeComments.ql,43
 CommentedOutCode.ql,847
 DocumentApi.ql,18683
 TodoComments.ql,988
+MemoryMayNotBeFreed.ql,-1
+FileMayNotBeClosed.ql,-1
+GlobalUseBeforeInit.ql,-1
+InitialisationNotRun.ql,-1

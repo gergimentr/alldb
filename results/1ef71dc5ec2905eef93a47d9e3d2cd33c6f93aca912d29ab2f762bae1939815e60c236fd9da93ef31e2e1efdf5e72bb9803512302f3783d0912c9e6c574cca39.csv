@@ -10,7 +10,6 @@ MemoryMayNotBeFreed.ql,16
 Unused.ql,3415
 InconsistentNullnessTesting.ql,7
 FileMayNotBeClosed.ql,76
-GlobalUseBeforeInit.ql,-1
 NotInitialised.ql,118
 UseAfterFree.ql,1
 MemoryNeverFreed.ql,83
@@ -101,7 +100,6 @@ SuspiciousAddWithSizeof.ql,1
 WcharCharConversion.ql,1
 OverflowBuffer.ql,1
 Cleanup-DuplicateIncludeGuard.ql,3
-ImproperCheckReturnValueScanf.ql,-1
 ExposureSensitiveInformationUnauthorizedActor.ql,1
 UnsignedToSignedPointerArith.ql,1
 IncorrectChangingWorkingDirectory.ql,1
@@ -250,3 +248,4 @@ FixmeComments.ql,15
 CommentedOutCode.ql,446
 DocumentApi.ql,17135
 TodoComments.ql,31
+GlobalUseBeforeInit.ql,-1

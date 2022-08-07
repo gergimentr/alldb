@@ -109,7 +109,6 @@ FindIncorrectlyUsedSwitch.ql,1
 LateCheckOfFunctionArgument.ql,1
 NoCheckBeforeUnsafePutUser.ql,1
 InsecureTemporaryFile.ql,1
-IncorrectPrivilegeAssignment.ql,-1
 FindWrapperFunctions.ql,3
 OperatorPrecedenceLogicErrorWhenUseBoolType.ql,2
 OperatorPrecedenceLogicErrorWhenUseBitwiseOrLogicalOperations.ql,1
@@ -117,7 +116,6 @@ PamAuthorization.ql,1
 MemoryLeakOnFailedCallToRealloc.ql,2
 DangerousUseOfExceptionBlocks.ql,1
 DeclarationOfVariableWithUnnecessarilyWideScope.ql,1
-UndefinedOrImplementationDefinedBehavior.ql,-1
 DoubleRelease.ql,5
 MemoryUnsafeFunctionScan.ql,2
 PrivilegeDroppingOutoforder.ql,1
@@ -250,3 +248,5 @@ FixmeComments.ql,52
 CommentedOutCode.ql,760
 DocumentApi.ql,6321
 TodoComments.ql,234
+IncorrectPrivilegeAssignment.ql,-1
+UndefinedOrImplementationDefinedBehavior.ql,3
