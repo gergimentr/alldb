@@ -103,7 +103,6 @@ Cleanup-DuplicateIncludeGuard.ql,3
 ExposureSensitiveInformationUnauthorizedActor.ql,1
 UnsignedToSignedPointerArith.ql,1
 IncorrectChangingWorkingDirectory.ql,1
-FindIncorrectlyUsedSwitch.ql,-1
 LateCheckOfFunctionArgument.ql,1
 NoCheckBeforeUnsafePutUser.ql,1
 InsecureTemporaryFile.ql,1
@@ -249,3 +248,4 @@ CommentedOutCode.ql,446
 DocumentApi.ql,17135
 TodoComments.ql,31
 GlobalUseBeforeInit.ql,-1
+ImproperCheckReturnValueScanf.ql,-1

@@ -248,5 +248,5 @@ FixmeComments.ql,52
 CommentedOutCode.ql,760
 DocumentApi.ql,6321
 TodoComments.ql,234
-IncorrectPrivilegeAssignment.ql,-1
 UndefinedOrImplementationDefinedBehavior.ql,3
+IncorrectPrivilegeAssignment.ql,-1

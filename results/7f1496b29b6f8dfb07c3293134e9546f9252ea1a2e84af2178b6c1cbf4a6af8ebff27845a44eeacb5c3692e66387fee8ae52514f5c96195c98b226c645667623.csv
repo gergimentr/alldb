@@ -101,11 +101,9 @@ Cleanup-DuplicateIncludeGuard.ql,3
 ExposureSensitiveInformationUnauthorizedActor.ql,1
 UnsignedToSignedPointerArith.ql,1
 IncorrectChangingWorkingDirectory.ql,1
-FindIncorrectlyUsedSwitch.ql,-1
 LateCheckOfFunctionArgument.ql,1
 NoCheckBeforeUnsafePutUser.ql,1
 InsecureTemporaryFile.ql,1
-IncorrectPrivilegeAssignment.ql,-1
 FindWrapperFunctions.ql,-1
 OperatorPrecedenceLogicErrorWhenUseBoolType.ql,1
 OperatorPrecedenceLogicErrorWhenUseBitwiseOrLogicalOperations.ql,1
@@ -250,3 +248,5 @@ MemoryMayNotBeFreed.ql,16
 FileMayNotBeClosed.ql,76
 GlobalUseBeforeInit.ql,-1
 ImproperCheckReturnValueScanf.ql,-1
+FindIncorrectlyUsedSwitch.ql,-1
+IncorrectPrivilegeAssignment.ql,-1
