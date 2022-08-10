@@ -250,3 +250,4 @@ FixmeComments.ql,1
 CommentedOutCode.ql,6
 DocumentApi.ql,6
 TodoComments.ql,1
+DangerousWorksWithMultibyteOrWideCharacters.ql,1

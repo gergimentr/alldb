@@ -249,3 +249,5 @@ MemoryMayNotBeFreed.ql,-1
 FileMayNotBeClosed.ql,-1
 GlobalUseBeforeInit.ql,-1
 InitialisationNotRun.ql,-1
+DangerousWorksWithMultibyteOrWideCharacters.ql,1
+cwetmp.ql,1

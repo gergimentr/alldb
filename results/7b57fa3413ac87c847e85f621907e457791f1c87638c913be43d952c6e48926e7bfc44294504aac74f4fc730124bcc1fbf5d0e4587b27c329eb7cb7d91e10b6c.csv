@@ -250,3 +250,4 @@ CommentedOutCode.ql,610
 DocumentApi.ql,4304
 TodoComments.ql,156
 GlobalUseBeforeInit.ql,409
+DangerousWorksWithMultibyteOrWideCharacters.ql,1
