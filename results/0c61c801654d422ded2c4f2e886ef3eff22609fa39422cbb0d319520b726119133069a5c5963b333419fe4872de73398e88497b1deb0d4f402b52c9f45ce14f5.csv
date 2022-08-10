@@ -245,9 +245,9 @@ FindIncorrectlyUsedSwitch.ql,-1
 IncorrectPrivilegeAssignment.ql,-1
 FindWrapperFunctions.ql,-1
 UndefinedOrImplementationDefinedBehavior.ql,-1
+DangerousWorksWithMultibyteOrWideCharacters.ql,1
+cwetmp.ql,1
 MemoryMayNotBeFreed.ql,-1
 FileMayNotBeClosed.ql,-1
 GlobalUseBeforeInit.ql,-1
 InitialisationNotRun.ql,-1
-DangerousWorksWithMultibyteOrWideCharacters.ql,1
-cwetmp.ql,1
