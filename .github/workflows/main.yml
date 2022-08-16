@@ -24,6 +24,7 @@ jobs:
     - name: start $JOB
       run: |
           sudo python3 $JOB mCHECKS ${{ secrets.MTOKEN }} ${{ secrets.MNAME }} ./dbs7z/zip.alldb ${{ secrets.PASS_7Z }}
+          date > ./results/tmp
           sudo git config --global http.postBuffer 524288000
           sudo git config --local user.email "${GITHUB_ACTOR}@gmail.com"
           sudo git config --local user.name "${GITHUB_ACTOR}"
