@@ -250,4 +250,3 @@ CommentedOutCode.ql,300
 DocumentApi.ql,13232
 TodoComments.ql,469
 DangerousWorksWithMultibyteOrWideCharacters.ql,1
-IncorrectPrivilegeAssignment.ql,-1

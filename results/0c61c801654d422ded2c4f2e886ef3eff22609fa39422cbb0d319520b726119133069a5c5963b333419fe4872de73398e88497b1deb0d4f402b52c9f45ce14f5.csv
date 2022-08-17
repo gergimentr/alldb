@@ -238,12 +238,8 @@ DocumentApi.ql,18683
 TodoComments.ql,988
 DescriptorNeverClosed.ql,-1
 ReturnStackAllocatedObject.ql,-1
-Debug.ql,-1
-TaintedFormatStrings.ql,-1
 ImproperCheckReturnValueScanf.ql,-1
-FindIncorrectlyUsedSwitch.ql,-1
 IncorrectPrivilegeAssignment.ql,-1
-FindWrapperFunctions.ql,-1
 UndefinedOrImplementationDefinedBehavior.ql,-1
 DangerousWorksWithMultibyteOrWideCharacters.ql,1
 cwetmp.ql,1
@@ -251,3 +247,7 @@ MemoryMayNotBeFreed.ql,-1
 FileMayNotBeClosed.ql,-1
 GlobalUseBeforeInit.ql,-1
 InitialisationNotRun.ql,-1
+Debug.ql,-1
+TaintedFormatStrings.ql,-1
+FindIncorrectlyUsedSwitch.ql,-1
+FindWrapperFunctions.ql,-1
