@@ -250,3 +250,4 @@ TodoComments.ql,134
 DangerousWorksWithMultibyteOrWideCharacters.ql,1
 FindIncorrectlyUsedSwitch.ql,1
 IncorrectPrivilegeAssignment.ql,1
+GlobalUseBeforeInit.ql,351
