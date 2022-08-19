@@ -250,4 +250,3 @@ DocumentApi.ql,6320
 TodoComments.ql,234
 UndefinedOrImplementationDefinedBehavior.ql,3
 DangerousWorksWithMultibyteOrWideCharacters.ql,1
-IncorrectPrivilegeAssignment.ql,-1
