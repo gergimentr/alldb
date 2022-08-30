@@ -247,7 +247,6 @@ MemoryMayNotBeFreed.ql,-1
 FileMayNotBeClosed.ql,-1
 GlobalUseBeforeInit.ql,-1
 InitialisationNotRun.ql,-1
-Debug.ql,-1
 TaintedFormatStrings.ql,-1
 FindIncorrectlyUsedSwitch.ql,-1
 FindWrapperFunctions.ql,-1
