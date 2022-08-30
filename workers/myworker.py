@@ -97,7 +97,7 @@ with open(folderName1+fileName1) as file:
             os.system('rm -rf '+filecsv)
             os.system('rm -rf '+fileres)
             os.system("cp \"" +querySELECT + "\" \""+longUrl1+"cwetmp.ql\"")
-            os.system('/opt/codeqlmy/codeql/codeql query run --database='+folddb+' --output='+fileres+'  --timeout=1800 -- '+longUrl1+'cwetmp.ql')
+            os.system('/opt/codeqlmy/codeql/codeql query run --database='+folddb+' --output='+fileres+'  --timeout=3600 -- '+longUrl1+'cwetmp.ql')
             if not os.path.exists(fileres):
                 df = pd.DataFrame({'nameQL':[querySELECT.split('/')[-1]],'countResults':[-1]})
                 df.to_csv(csvFileWork, mode='a', index=False, header=False)
