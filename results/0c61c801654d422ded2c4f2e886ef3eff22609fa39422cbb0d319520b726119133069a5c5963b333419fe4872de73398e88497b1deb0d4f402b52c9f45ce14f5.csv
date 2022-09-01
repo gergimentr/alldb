@@ -247,6 +247,6 @@ TaintedFormatStrings.ql,1
 FindIncorrectlyUsedSwitch.ql,2
 IncorrectPrivilegeAssignment.ql,1
 UndefinedOrImplementationDefinedBehavior.ql,3
-FindWrapperFunctions.ql,-1
 ImproperCheckReturnValueScanf.ql,1
+FindWrapperFunctions.ql,-1
 MemoryMayNotBeFreed.ql,-1
