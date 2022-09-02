@@ -250,3 +250,4 @@ CommentedOutCode.ql,15
 DocumentApi.ql,1
 TodoComments.ql,18
 DangerousWorksWithMultibyteOrWideCharacters.ql,1
+MissingCheckScanf.ql,1
