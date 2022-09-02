@@ -248,6 +248,6 @@ FindIncorrectlyUsedSwitch.ql,2
 IncorrectPrivilegeAssignment.ql,1
 UndefinedOrImplementationDefinedBehavior.ql,3
 ImproperCheckReturnValueScanf.ql,1
-FindWrapperFunctions.ql,-1
 MissingCheckScanf.ql,14
+FindWrapperFunctions.ql,-1
 MemoryMayNotBeFreed.ql,-1
