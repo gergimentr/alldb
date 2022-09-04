@@ -10,6 +10,7 @@ import glob
 import pandas as pd
 import threading
 import sys
+import random 
 
 branchName1 = sys.argv[1]
 loginName = sys.argv[3].split('/')[0]
@@ -46,9 +47,11 @@ os.system("mkdir -p "+longUrl2+"semmle/tests/")
 os.system('find /opt/codeqlmy/codeql-repo/cpp/ql/src/ -name \*.qll -exec cp {} '+longUrl1+' \;')
 os.system('find /opt/codeqlmy/codeql-repo/cpp/ql/src/Security/CWE/CWE-020/ir/ -name \*.qll -exec cp {} '+longUrl1+'ir/ \;')
 
-
+#with open(folderName1+fileName1) as file:
+#    for line in file:
 with open(folderName1+fileName1) as file:
-    for line in file:
+    for linecount in range(len(list(file))):
+        line = random.choice(list(open(folderName1+fileName1)))
         countError = 0
         urlfordownload = line.rstrip()
         filecsvname = line.rstrip().split('/')[-1].split('?')[0]
