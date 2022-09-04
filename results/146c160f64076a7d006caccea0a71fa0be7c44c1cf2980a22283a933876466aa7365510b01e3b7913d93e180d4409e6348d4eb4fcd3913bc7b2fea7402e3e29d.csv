@@ -108,7 +108,6 @@ IncorrectChangingWorkingDirectory.ql,1
 LateCheckOfFunctionArgument.ql,1
 NoCheckBeforeUnsafePutUser.ql,1
 InsecureTemporaryFile.ql,1
-IncorrectPrivilegeAssignment.ql,-1
 OperatorPrecedenceLogicErrorWhenUseBoolType.ql,1
 OperatorPrecedenceLogicErrorWhenUseBitwiseOrLogicalOperations.ql,1
 PamAuthorization.ql,1
@@ -250,3 +249,4 @@ TodoComments.ql,29
 DangerousWorksWithMultibyteOrWideCharacters.ql,1
 DoubleRelease.ql,1
 FindIncorrectlyUsedSwitch.ql,3
+FindWrapperFunctions.ql,1
