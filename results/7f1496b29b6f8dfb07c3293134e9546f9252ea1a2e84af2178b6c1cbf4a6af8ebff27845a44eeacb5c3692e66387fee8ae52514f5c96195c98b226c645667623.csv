@@ -247,6 +247,6 @@ FileMayNotBeClosed.ql,76
 DangerousWorksWithMultibyteOrWideCharacters.ql,1
 GlobalUseBeforeInit.ql,-1
 ImproperCheckReturnValueScanf.ql,-1
-IncorrectPrivilegeAssignment.ql,-1
 DoubleRelease.ql,1
 FindIncorrectlyUsedSwitch.ql,2
+FindWrapperFunctions.ql,1
