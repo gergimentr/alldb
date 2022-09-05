@@ -10,7 +10,6 @@ MemoryMayNotBeFreed.ql,8
 Unused.ql,322
 InconsistentNullnessTesting.ql,45
 FileMayNotBeClosed.ql,22
-GlobalUseBeforeInit.ql,-1
 NotInitialised.ql,82
 UseAfterFree.ql,1
 MemoryNeverFreed.ql,12
@@ -39,7 +38,6 @@ TaintedFormatStrings.ql,3
 TaintedPath.ql,32
 UnsignedDifferenceExpressionComparedZero.ql,1
 TOCTOUFilesystemRace.ql,8
-IRUntrustedDataToExternalAPI.ql,-1
 CountUntrustedDataToExternalAPI.ql,38
 UntrustedDataToExternalAPI.ql,113
 IRCountUntrustedDataToExternalAPI.ql,63
@@ -109,7 +107,6 @@ FindIncorrectlyUsedSwitch.ql,2
 LateCheckOfFunctionArgument.ql,1
 NoCheckBeforeUnsafePutUser.ql,1
 InsecureTemporaryFile.ql,1
-IncorrectPrivilegeAssignment.ql,-1
 FindWrapperFunctions.ql,14
 OperatorPrecedenceLogicErrorWhenUseBoolType.ql,1
 OperatorPrecedenceLogicErrorWhenUseBitwiseOrLogicalOperations.ql,1
@@ -250,3 +247,8 @@ FixmeComments.ql,22
 CommentedOutCode.ql,315
 DocumentApi.ql,2336
 TodoComments.ql,1907
+IRUntrustedDataToExternalAPI.ql,421
+DangerousWorksWithMultibyteOrWideCharacters.ql,1
+IncorrectPrivilegeAssignment.ql,1
+MissingCheckScanf.ql,3
+GlobalUseBeforeInit.ql,-1

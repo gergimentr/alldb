@@ -251,3 +251,4 @@ TodoComments.ql,234
 UndefinedOrImplementationDefinedBehavior.ql,3
 DangerousWorksWithMultibyteOrWideCharacters.ql,1
 IncorrectPrivilegeAssignment.ql,1
+MissingCheckScanf.ql,58
