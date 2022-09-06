@@ -101,7 +101,6 @@ SuspiciousAddWithSizeof.ql,1
 WcharCharConversion.ql,1
 OverflowBuffer.ql,5
 Cleanup-DuplicateIncludeGuard.ql,1
-ImproperCheckReturnValueScanf.ql,-1
 ExposureSensitiveInformationUnauthorizedActor.ql,1
 UnsignedToSignedPointerArith.ql,1
 IncorrectChangingWorkingDirectory.ql,1
@@ -114,7 +113,6 @@ PamAuthorization.ql,1
 MemoryLeakOnFailedCallToRealloc.ql,1
 DangerousUseOfExceptionBlocks.ql,1
 DeclarationOfVariableWithUnnecessarilyWideScope.ql,1
-UndefinedOrImplementationDefinedBehavior.ql,-1
 MemoryUnsafeFunctionScan.ql,1
 PrivilegeDroppingOutoforder.ql,1
 DangerousUseOfTransformationAfterOperation.ql,13
@@ -250,3 +248,5 @@ DangerousWorksWithMultibyteOrWideCharacters.ql,1
 DoubleRelease.ql,1
 FindIncorrectlyUsedSwitch.ql,3
 FindWrapperFunctions.ql,1
+IncorrectPrivilegeAssignment.ql,1
+UndefinedOrImplementationDefinedBehavior.ql,1
