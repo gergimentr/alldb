@@ -247,6 +247,6 @@ TodoComments.ql,29
 DangerousWorksWithMultibyteOrWideCharacters.ql,1
 DoubleRelease.ql,1
 FindIncorrectlyUsedSwitch.ql,3
-FindWrapperFunctions.ql,-1
 IncorrectPrivilegeAssignment.ql,1
 UndefinedOrImplementationDefinedBehavior.ql,1
+FindWrapperFunctions.ql,1
