@@ -251,3 +251,6 @@ TodoComments.ql,234
 UndefinedOrImplementationDefinedBehavior.ql,3
 DangerousWorksWithMultibyteOrWideCharacters.ql,1
 IncorrectPrivilegeAssignment.ql,1
+ArrayAccessProductFlow.ql,1
+OverrunWriteProductFlow.ql,50
+MissingCheckScanf.ql,58
