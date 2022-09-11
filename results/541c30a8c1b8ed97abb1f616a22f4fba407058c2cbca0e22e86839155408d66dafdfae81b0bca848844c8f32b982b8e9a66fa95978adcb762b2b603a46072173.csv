@@ -6,11 +6,9 @@ ReturnValueIgnored.ql,150
 DescriptorMayNotBeClosed.ql,1
 LargeParameter.ql,1
 OverflowDestination.ql,12
-MemoryMayNotBeFreed.ql,-1
 Unused.ql,3966
 InconsistentNullnessTesting.ql,5
 FileMayNotBeClosed.ql,-1
-GlobalUseBeforeInit.ql,-1
 NotInitialised.ql,108
 UseAfterFree.ql,1
 MemoryNeverFreed.ql,82
@@ -150,7 +148,6 @@ StrncpyFlippedArgs.ql,1
 ImproperNullTermination.ql,7
 SuspiciousSizeof.ql,1
 ReturnStackAllocatedMemory.ql,1
-UninitializedLocal.ql,-1
 PotentialBufferOverflow.ql,1
 SuspiciousCallToStrncat.ql,1
 AllocaInLoop.ql,1
@@ -250,3 +247,9 @@ FindIncorrectlyUsedSwitch.ql,3
 IncorrectPrivilegeAssignment.ql,1
 UndefinedOrImplementationDefinedBehavior.ql,1
 FindWrapperFunctions.ql,1
+ImproperCheckReturnValueScanf.ql,-1
+ArrayAccessProductFlow.ql,1
+OverrunWriteProductFlow.ql,13
+UninitializedLocal.ql,5
+MissingCheckScanf.ql,69
+MemoryMayNotBeFreed.ql,1
