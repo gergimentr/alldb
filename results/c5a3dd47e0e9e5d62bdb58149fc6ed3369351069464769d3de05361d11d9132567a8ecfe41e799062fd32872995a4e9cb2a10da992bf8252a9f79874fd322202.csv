@@ -109,7 +109,6 @@ FindIncorrectlyUsedSwitch.ql,2
 LateCheckOfFunctionArgument.ql,1
 NoCheckBeforeUnsafePutUser.ql,1
 InsecureTemporaryFile.ql,1
-IncorrectPrivilegeAssignment.ql,-1
 FindWrapperFunctions.ql,14
 OperatorPrecedenceLogicErrorWhenUseBoolType.ql,1
 OperatorPrecedenceLogicErrorWhenUseBitwiseOrLogicalOperations.ql,1
@@ -250,3 +249,5 @@ FixmeComments.ql,22
 CommentedOutCode.ql,315
 DocumentApi.ql,2336
 TodoComments.ql,1907
+DangerousWorksWithMultibyteOrWideCharacters.ql,1
+IncorrectPrivilegeAssignment.ql,1
