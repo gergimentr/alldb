@@ -252,3 +252,5 @@ FindIncorrectlyUsedSwitch.ql,1
 IncorrectPrivilegeAssignment.ql,1
 GlobalUseBeforeInit.ql,351
 MissingCheckScanf.ql,9
+ArrayAccessProductFlow.ql,1
+OverrunWriteProductFlow.ql,39
