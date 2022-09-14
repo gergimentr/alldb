@@ -249,6 +249,6 @@ IncorrectPrivilegeAssignment.ql,1
 UndefinedOrImplementationDefinedBehavior.ql,3
 ImproperCheckReturnValueScanf.ql,1
 MissingCheckScanf.ql,14
-FindWrapperFunctions.ql,-1
 ArrayAccessProductFlow.ql,1015
 OverrunWriteProductFlow.ql,349
+FindWrapperFunctions.ql,-1

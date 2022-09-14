@@ -10,7 +10,6 @@ MemoryMayNotBeFreed.ql,8
 Unused.ql,322
 InconsistentNullnessTesting.ql,45
 FileMayNotBeClosed.ql,22
-GlobalUseBeforeInit.ql,-1
 NotInitialised.ql,82
 UseAfterFree.ql,1
 MemoryNeverFreed.ql,12
@@ -251,3 +250,7 @@ DocumentApi.ql,2336
 TodoComments.ql,1907
 DangerousWorksWithMultibyteOrWideCharacters.ql,1
 IncorrectPrivilegeAssignment.ql,1
+ArrayAccessProductFlow.ql,1
+OverrunWriteProductFlow.ql,15
+MissingCheckScanf.ql,3
+GlobalUseBeforeInit.ql,-1
