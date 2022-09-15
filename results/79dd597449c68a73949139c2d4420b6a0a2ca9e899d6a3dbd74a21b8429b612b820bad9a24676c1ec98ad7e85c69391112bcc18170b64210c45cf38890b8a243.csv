@@ -252,3 +252,5 @@ UndefinedOrImplementationDefinedBehavior.ql,3
 DangerousWorksWithMultibyteOrWideCharacters.ql,1
 IncorrectPrivilegeAssignment.ql,1
 MissingCheckScanf.ql,58
+ArrayAccessProductFlow.ql,1
+OverrunWriteProductFlow.ql,50
