@@ -105,7 +105,6 @@ ImproperCheckReturnValueScanf.ql,-1
 ExposureSensitiveInformationUnauthorizedActor.ql,1
 UnsignedToSignedPointerArith.ql,1
 IncorrectChangingWorkingDirectory.ql,1
-FindIncorrectlyUsedSwitch.ql,-1
 LateCheckOfFunctionArgument.ql,1
 NoCheckBeforeUnsafePutUser.ql,1
 InsecureTemporaryFile.ql,1
@@ -250,3 +249,4 @@ CommentedOutCode.ql,441
 DocumentApi.ql,17176
 TodoComments.ql,31
 DangerousWorksWithMultibyteOrWideCharacters.ql,1
+DoubleRelease.ql,1

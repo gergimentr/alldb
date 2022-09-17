@@ -253,3 +253,4 @@ ImproperCheckReturnValueScanf.ql,1
 ArrayAccessProductFlow.ql,1
 OverrunWriteProductFlow.ql,13
 FileMayNotBeClosed.ql,69
+GlobalUseBeforeInit.ql,-1
