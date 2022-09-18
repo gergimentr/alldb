@@ -251,4 +251,4 @@ OverrunWriteProductFlow.ql,13
 UninitializedLocal.ql,5
 MissingCheckScanf.ql,69
 MemoryMayNotBeFreed.ql,1
-GlobalUseBeforeInit.ql,-1
+ImproperCheckReturnValueScanf.ql,-1
