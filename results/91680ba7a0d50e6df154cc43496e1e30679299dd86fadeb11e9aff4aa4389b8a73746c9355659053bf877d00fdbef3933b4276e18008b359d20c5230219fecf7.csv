@@ -251,3 +251,6 @@ CommentedOutCode.ql,87
 DocumentApi.ql,752
 TodoComments.ql,39
 DangerousWorksWithMultibyteOrWideCharacters.ql,1
+ArrayAccessProductFlow.ql,25
+OverrunWriteProductFlow.ql,1
+MissingCheckScanf.ql,3
