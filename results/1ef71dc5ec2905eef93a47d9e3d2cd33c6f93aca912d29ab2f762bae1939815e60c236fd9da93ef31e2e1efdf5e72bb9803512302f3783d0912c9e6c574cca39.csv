@@ -248,8 +248,8 @@ FindIncorrectlyUsedSwitch.ql,2
 FindWrapperFunctions.ql,1
 IncorrectPrivilegeAssignment.ql,1
 UndefinedOrImplementationDefinedBehavior.ql,1
-ImproperCheckReturnValueScanf.ql,-1
 ArrayAccessProductFlow.ql,1
 OverrunWriteProductFlow.ql,27
 UninitializedLocal.ql,7
 MissingCheckScanf.ql,102
+ImproperCheckReturnValueScanf.ql,-1
