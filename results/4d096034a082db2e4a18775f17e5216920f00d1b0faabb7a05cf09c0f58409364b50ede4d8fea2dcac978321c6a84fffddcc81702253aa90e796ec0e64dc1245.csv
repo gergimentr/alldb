@@ -248,8 +248,8 @@ TaintedFormatStrings.ql,1
 FindIncorrectlyUsedSwitch.ql,2
 IncorrectPrivilegeAssignment.ql,1
 UndefinedOrImplementationDefinedBehavior.ql,3
-FindWrapperFunctions.ql,-1
 ImproperCheckReturnValueScanf.ql,1
 ArrayAccessProductFlow.ql,1015
 OverrunWriteProductFlow.ql,349
 MissingCheckScanf.ql,14
+FindWrapperFunctions.ql,-1
