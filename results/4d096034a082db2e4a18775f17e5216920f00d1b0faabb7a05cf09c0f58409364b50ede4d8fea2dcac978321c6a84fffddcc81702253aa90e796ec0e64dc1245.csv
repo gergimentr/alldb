@@ -106,7 +106,6 @@ MemoryLeakOnFailedCallToRealloc.ql,32
 DangerousUseOfExceptionBlocks.ql,1
 DeclarationOfVariableWithUnnecessarilyWideScope.ql,1
 DescriptorNeverClosed.ql,-1
-ReturnStackAllocatedObject.ql,-1
 DoubleRelease.ql,1
 MemoryUnsafeFunctionScan.ql,2
 PrivilegeDroppingOutoforder.ql,1
@@ -252,4 +251,6 @@ ImproperCheckReturnValueScanf.ql,1
 ArrayAccessProductFlow.ql,1015
 OverrunWriteProductFlow.ql,349
 MissingCheckScanf.ql,14
+InvalidPointerDeref.ql,135
 FindWrapperFunctions.ql,-1
+MemoryMayNotBeFreed.ql,-1
