@@ -101,7 +101,6 @@ SuspiciousAddWithSizeof.ql,1
 WcharCharConversion.ql,1
 OverflowBuffer.ql,1
 Cleanup-DuplicateIncludeGuard.ql,3
-ImproperCheckReturnValueScanf.ql,-1
 ExposureSensitiveInformationUnauthorizedActor.ql,1
 UnsignedToSignedPointerArith.ql,1
 IncorrectChangingWorkingDirectory.ql,1
@@ -250,3 +249,5 @@ DoubleRelease.ql,1
 FindIncorrectlyUsedSwitch.ql,2
 FindWrapperFunctions.ql,1
 IncorrectPrivilegeAssignment.ql,1
+InvalidPointerDeref.ql,1
+UndefinedOrImplementationDefinedBehavior.ql,1
