@@ -251,3 +251,4 @@ CommentedOutCode.ql,232
 DocumentApi.ql,2336
 TodoComments.ql,14
 DangerousWorksWithMultibyteOrWideCharacters.ql,1
+InvalidPointerDeref.ql,20

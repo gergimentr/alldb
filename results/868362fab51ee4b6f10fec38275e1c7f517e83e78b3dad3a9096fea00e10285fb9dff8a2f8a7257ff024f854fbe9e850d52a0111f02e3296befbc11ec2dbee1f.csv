@@ -250,3 +250,8 @@ FixmeComments.ql,8
 CommentedOutCode.ql,129
 DocumentApi.ql,975
 TodoComments.ql,69
+DangerousWorksWithMultibyteOrWideCharacters.ql,1
+InvalidPointerDeref.ql,1
+ArrayAccessProductFlow.ql,1
+OverrunWriteProductFlow.ql,6
+MissingCheckScanf.ql,1
