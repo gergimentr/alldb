@@ -252,4 +252,5 @@ ArrayAccessProductFlow.ql,1
 OverrunWriteProductFlow.ql,27
 UninitializedLocal.ql,7
 MissingCheckScanf.ql,102
+InvalidPointerDeref.ql,1
 ImproperCheckReturnValueScanf.ql,-1
