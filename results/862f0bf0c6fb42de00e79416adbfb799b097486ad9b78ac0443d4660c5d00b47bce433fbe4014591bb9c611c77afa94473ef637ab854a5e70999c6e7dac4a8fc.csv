@@ -252,3 +252,6 @@ DocumentApi.ql,300
 TodoComments.ql,2
 DangerousWorksWithMultibyteOrWideCharacters.ql,1
 MissingCheckScanf.ql,10
+InvalidPointerDeref.ql,1
+ArrayAccessProductFlow.ql,1
+OverrunWriteProductFlow.ql,1

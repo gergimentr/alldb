@@ -254,3 +254,4 @@ IncorrectPrivilegeAssignment.ql,1
 MissingCheckScanf.ql,58
 ArrayAccessProductFlow.ql,1
 OverrunWriteProductFlow.ql,50
+InvalidPointerDeref.ql,1
