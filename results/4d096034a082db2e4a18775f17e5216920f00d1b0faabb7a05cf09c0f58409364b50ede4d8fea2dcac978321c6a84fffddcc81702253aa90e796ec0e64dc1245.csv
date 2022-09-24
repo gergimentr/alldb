@@ -252,4 +252,5 @@ ArrayAccessProductFlow.ql,1015
 OverrunWriteProductFlow.ql,349
 MissingCheckScanf.ql,14
 InvalidPointerDeref.ql,135
+FindWrapperFunctions.ql,-1
 MemoryMayNotBeFreed.ql,-1
