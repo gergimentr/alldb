@@ -254,3 +254,4 @@ MissingCheckScanf.ql,1
 GlobalUseBeforeInit.ql,735
 ArrayAccessProductFlow.ql,1
 OverrunWriteProductFlow.ql,26
+InvalidPointerDeref.ql,1

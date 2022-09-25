@@ -252,3 +252,4 @@ UninitializedLocal.ql,5
 MissingCheckScanf.ql,69
 MemoryMayNotBeFreed.ql,1
 InvalidPointerDeref.ql,1
+ImproperCheckReturnValueScanf.ql,-1
