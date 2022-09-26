@@ -36,7 +36,6 @@ OverrunWrite.ql,1
 UnboundedWrite.ql,1
 WcharCharConversion.ql,1
 IRUntrustedDataToExternalAPI.ql,223
-UntrustedDataToExternalAPI.ql,-1
 IRCountUntrustedDataToExternalAPI.ql,26
 CountUntrustedDataToExternalAPI.ql,26
 InfiniteLoopWithUnsatisfiableExitCondition.ql,1
@@ -255,3 +254,4 @@ UnusedIncludes.ql,412
 UnusedStaticVariables.ql,1
 UnusedStaticFunctions.ql,1
 UnusedLocals.ql,1
+UntrustedDataToExternalAPI.ql,-1
