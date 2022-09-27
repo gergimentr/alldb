@@ -109,14 +109,12 @@ LateCheckOfFunctionArgument.ql,1
 NoCheckBeforeUnsafePutUser.ql,1
 InsecureTemporaryFile.ql,1
 IncorrectPrivilegeAssignment.ql,-1
-FindWrapperFunctions.ql,-1
 OperatorPrecedenceLogicErrorWhenUseBoolType.ql,1
 OperatorPrecedenceLogicErrorWhenUseBitwiseOrLogicalOperations.ql,1
 PamAuthorization.ql,1
 MemoryLeakOnFailedCallToRealloc.ql,1
 DangerousUseOfExceptionBlocks.ql,1
 DeclarationOfVariableWithUnnecessarilyWideScope.ql,1
-UndefinedOrImplementationDefinedBehavior.ql,-1
 MemoryUnsafeFunctionScan.ql,3
 PrivilegeDroppingOutoforder.ql,1
 DangerousUseOfTransformationAfterOperation.ql,6
@@ -154,7 +152,6 @@ StrncpyFlippedArgs.ql,1
 ImproperNullTermination.ql,4
 SuspiciousSizeof.ql,1
 ReturnStackAllocatedMemory.ql,1
-UninitializedLocal.ql,-1
 PotentialBufferOverflow.ql,1
 SuspiciousCallToStrncat.ql,1
 AllocaInLoop.ql,1
@@ -251,3 +248,6 @@ TodoComments.ql,31
 DangerousWorksWithMultibyteOrWideCharacters.ql,1
 DoubleRelease.ql,1
 InvalidPointerDeref.ql,1
+UninitializedLocal.ql,7
+UndefinedOrImplementationDefinedBehavior.ql,1
+FindWrapperFunctions.ql,1

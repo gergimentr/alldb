@@ -254,3 +254,4 @@ MissingCheckScanf.ql,1
 cwetmp.ql,1
 ArrayAccessProductFlow.ql,1
 OverrunWriteProductFlow.ql,4
+InvalidPointerDeref.ql,1
