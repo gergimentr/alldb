@@ -254,3 +254,4 @@ DangerousWorksWithMultibyteOrWideCharacters.ql,1
 MissingCheckScanf.ql,21
 ArrayAccessProductFlow.ql,45
 OverrunWriteProductFlow.ql,211
+InvalidPointerDeref.ql,5
