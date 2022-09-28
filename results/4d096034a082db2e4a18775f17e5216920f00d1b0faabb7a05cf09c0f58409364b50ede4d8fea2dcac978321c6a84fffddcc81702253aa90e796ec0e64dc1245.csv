@@ -239,9 +239,7 @@ CommentedOutCode.ql,847
 DocumentApi.ql,18683
 TodoComments.ql,988
 DangerousWorksWithMultibyteOrWideCharacters.ql,1
-FileMayNotBeClosed.ql,-1
 GlobalUseBeforeInit.ql,-1
-InitialisationNotRun.ql,-1
 Debug.ql,1
 TaintedFormatStrings.ql,1
 FindIncorrectlyUsedSwitch.ql,2
@@ -253,3 +251,5 @@ OverrunWriteProductFlow.ql,349
 MissingCheckScanf.ql,14
 InvalidPointerDeref.ql,135
 MemoryMayNotBeFreed.ql,-1
+FindWrapperFunctions.ql,-1
+FileMayNotBeClosed.ql,-1
