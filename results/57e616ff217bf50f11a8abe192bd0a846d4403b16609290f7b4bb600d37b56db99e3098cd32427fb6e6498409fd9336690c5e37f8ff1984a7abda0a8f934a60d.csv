@@ -101,14 +101,12 @@ SuspiciousAddWithSizeof.ql,1
 WcharCharConversion.ql,1
 OverflowBuffer.ql,1
 Cleanup-DuplicateIncludeGuard.ql,3
-ImproperCheckReturnValueScanf.ql,-1
 ExposureSensitiveInformationUnauthorizedActor.ql,1
 UnsignedToSignedPointerArith.ql,1
 IncorrectChangingWorkingDirectory.ql,1
 LateCheckOfFunctionArgument.ql,1
 NoCheckBeforeUnsafePutUser.ql,1
 InsecureTemporaryFile.ql,1
-IncorrectPrivilegeAssignment.ql,-1
 OperatorPrecedenceLogicErrorWhenUseBoolType.ql,1
 OperatorPrecedenceLogicErrorWhenUseBitwiseOrLogicalOperations.ql,1
 PamAuthorization.ql,1
@@ -251,3 +249,6 @@ InvalidPointerDeref.ql,1
 UninitializedLocal.ql,7
 UndefinedOrImplementationDefinedBehavior.ql,1
 FindWrapperFunctions.ql,1
+FindIncorrectlyUsedSwitch.ql,2
+IncorrectPrivilegeAssignment.ql,1
+ImproperCheckReturnValueScanf.ql,-1
