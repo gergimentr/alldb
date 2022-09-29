@@ -10,7 +10,6 @@ MemoryMayNotBeFreed.ql,16
 Unused.ql,3420
 InconsistentNullnessTesting.ql,7
 FileMayNotBeClosed.ql,76
-GlobalUseBeforeInit.ql,-1
 NotInitialised.ql,118
 UseAfterFree.ql,1
 MemoryNeverFreed.ql,83
@@ -252,3 +251,6 @@ FindWrapperFunctions.ql,1
 FindIncorrectlyUsedSwitch.ql,2
 IncorrectPrivilegeAssignment.ql,1
 ImproperCheckReturnValueScanf.ql,-1
+ArrayAccessProductFlow.ql,1
+OverrunWriteProductFlow.ql,1
+MissingCheckScanf.ql,102
