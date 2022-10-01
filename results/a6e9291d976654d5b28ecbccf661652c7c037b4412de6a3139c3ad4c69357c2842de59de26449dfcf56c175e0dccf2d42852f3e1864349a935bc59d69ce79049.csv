@@ -150,7 +150,6 @@ StrncpyFlippedArgs.ql,1
 ImproperNullTermination.ql,4
 SuspiciousSizeof.ql,1
 ReturnStackAllocatedMemory.ql,1
-UninitializedLocal.ql,-1
 PotentialBufferOverflow.ql,1
 SuspiciousCallToStrncat.ql,1
 AllocaInLoop.ql,1
@@ -251,3 +250,4 @@ FindWrapperFunctions.ql,1
 IncorrectPrivilegeAssignment.ql,1
 InvalidPointerDeref.ql,1
 UndefinedOrImplementationDefinedBehavior.ql,1
+UninitializedLocal.ql,7

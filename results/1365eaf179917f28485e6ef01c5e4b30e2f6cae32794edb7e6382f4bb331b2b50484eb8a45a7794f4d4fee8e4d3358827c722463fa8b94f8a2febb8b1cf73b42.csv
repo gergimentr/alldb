@@ -90,7 +90,6 @@ IncorrectChangingWorkingDirectory.ql,1
 DoubleRelease.ql,1
 UnsignedToSignedPointerArith.ql,5
 MemoryUnsafeFunctionScan.ql,1
-UntrustedDataToExternalAPI.ql,-1
 InconsistentSAL.ql,1
 IgnoreReturnValueSAL.ql,1
 CallWithNullSAL.ql,1
@@ -255,3 +254,4 @@ MemoryMayNotBeFreed.ql,112
 MemoryNeverFreed.ql,4
 ReturnValueIgnored.ql,1
 UseAfterFree.ql,1
+UntrustedDataToExternalAPI.ql,-1
