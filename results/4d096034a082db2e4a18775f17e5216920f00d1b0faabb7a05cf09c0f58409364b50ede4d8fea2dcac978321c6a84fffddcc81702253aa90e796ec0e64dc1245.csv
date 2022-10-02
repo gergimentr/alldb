@@ -251,5 +251,4 @@ OverrunWriteProductFlow.ql,349
 MissingCheckScanf.ql,14
 InvalidPointerDeref.ql,135
 MemoryMayNotBeFreed.ql,-1
-FindWrapperFunctions.ql,-1
 FileMayNotBeClosed.ql,-1
