@@ -254,3 +254,5 @@ ArrayAccessProductFlow.ql,1
 OverrunWriteProductFlow.ql,15
 MissingCheckScanf.ql,3
 InvalidPointerDeref.ql,1
+ConstantSizeArrayOffByOne.ql,5
+GlobalUseBeforeInit.ql,-1
