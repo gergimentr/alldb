@@ -251,3 +251,6 @@ IncorrectPrivilegeAssignment.ql,1
 InvalidPointerDeref.ql,1
 UndefinedOrImplementationDefinedBehavior.ql,1
 UninitializedLocal.ql,7
+ConstantSizeArrayOffByOne.ql,16
+ImproperCheckReturnValueScanf.ql,-1
+ArrayAccessProductFlow.ql,1
