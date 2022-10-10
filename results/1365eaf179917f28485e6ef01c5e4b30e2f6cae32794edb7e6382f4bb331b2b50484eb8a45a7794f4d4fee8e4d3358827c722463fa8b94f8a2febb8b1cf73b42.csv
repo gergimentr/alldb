@@ -254,5 +254,5 @@ MemoryMayNotBeFreed.ql,112
 MemoryNeverFreed.ql,4
 ReturnValueIgnored.ql,1
 UseAfterFree.ql,1
-UntrustedDataToExternalAPI.ql,-1
 ConstantSizeArrayOffByOne.ql,1
+UntrustedDataToExternalAPI.ql,-1

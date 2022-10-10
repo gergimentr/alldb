@@ -254,5 +254,5 @@ UnusedIncludes.ql,412
 UnusedStaticVariables.ql,1
 UnusedStaticFunctions.ql,1
 UnusedLocals.ql,1
-UntrustedDataToExternalAPI.ql,-1
 ConstantSizeArrayOffByOne.ql,1
+UntrustedDataToExternalAPI.ql,-1

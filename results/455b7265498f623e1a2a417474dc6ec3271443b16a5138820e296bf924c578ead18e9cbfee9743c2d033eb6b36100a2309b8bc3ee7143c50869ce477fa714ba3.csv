@@ -254,3 +254,5 @@ UndefinedOrImplementationDefinedBehavior.ql,1
 ArrayAccessProductFlow.ql,128
 OverrunWriteProductFlow.ql,1
 MissingCheckScanf.ql,256
+ConstantSizeArrayOffByOne.ql,244
+GlobalUseBeforeInit.ql,-1
