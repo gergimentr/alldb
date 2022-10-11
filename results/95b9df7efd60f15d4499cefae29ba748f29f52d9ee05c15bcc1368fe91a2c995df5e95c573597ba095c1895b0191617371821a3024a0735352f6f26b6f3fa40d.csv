@@ -255,3 +255,4 @@ ArrayAccessProductFlow.ql,1
 OverrunWriteProductFlow.ql,50
 MissingCheckScanf.ql,58
 InvalidPointerDeref.ql,1
+ConstantSizeArrayOffByOne.ql,37
