@@ -9,8 +9,6 @@ OverflowDestination.ql,13
 MemoryMayNotBeFreed.ql,-1
 Unused.ql,3420
 InconsistentNullnessTesting.ql,7
-FileMayNotBeClosed.ql,-1
-GlobalUseBeforeInit.ql,-1
 NotInitialised.ql,118
 UseAfterFree.ql,1
 MemoryNeverFreed.ql,83
@@ -252,5 +250,8 @@ InvalidPointerDeref.ql,1
 UndefinedOrImplementationDefinedBehavior.ql,1
 UninitializedLocal.ql,7
 ConstantSizeArrayOffByOne.ql,16
-ImproperCheckReturnValueScanf.ql,-1
 ArrayAccessProductFlow.ql,1
+ImproperCheckReturnValueScanf.ql,-1
+OverrunWriteProductFlow.ql,1
+FileMayNotBeClosed.ql,76
+MissingCheckScanf.ql,102
