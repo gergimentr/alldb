@@ -6,7 +6,6 @@ ReturnValueIgnored.ql,114
 DescriptorMayNotBeClosed.ql,1
 LargeParameter.ql,1
 OverflowDestination.ql,13
-MemoryMayNotBeFreed.ql,-1
 Unused.ql,3420
 InconsistentNullnessTesting.ql,7
 NotInitialised.ql,118
@@ -251,7 +250,9 @@ UndefinedOrImplementationDefinedBehavior.ql,1
 UninitializedLocal.ql,7
 ConstantSizeArrayOffByOne.ql,16
 ArrayAccessProductFlow.ql,1
-ImproperCheckReturnValueScanf.ql,-1
 OverrunWriteProductFlow.ql,1
 FileMayNotBeClosed.ql,76
 MissingCheckScanf.ql,102
+CommaBeforeMisleadingIndentation.ql,2
+ImproperCheckReturnValueScanf.ql,-1
+GlobalUseBeforeInit.ql,-1
