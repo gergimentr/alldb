@@ -256,3 +256,4 @@ ArrayAccessProductFlow.ql,259
 OverrunWriteProductFlow.ql,181
 MissingCheckScanf.ql,148
 ConstantSizeArrayOffByOne.ql,11
+CommaBeforeMisleadingIndentation.ql,1
