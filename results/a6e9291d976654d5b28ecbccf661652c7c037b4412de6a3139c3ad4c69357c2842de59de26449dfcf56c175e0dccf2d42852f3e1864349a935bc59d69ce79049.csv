@@ -255,4 +255,3 @@ FileMayNotBeClosed.ql,76
 MissingCheckScanf.ql,102
 CommaBeforeMisleadingIndentation.ql,2
 ImproperCheckReturnValueScanf.ql,-1
-GlobalUseBeforeInit.ql,-1
