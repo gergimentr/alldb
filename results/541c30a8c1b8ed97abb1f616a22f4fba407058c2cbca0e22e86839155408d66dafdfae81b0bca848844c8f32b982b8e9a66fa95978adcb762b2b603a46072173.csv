@@ -254,4 +254,5 @@ MemoryMayNotBeFreed.ql,1
 InvalidPointerDeref.ql,1
 ConstantSizeArrayOffByOne.ql,1
 FileMayNotBeClosed.ql,69
+CommaBeforeMisleadingIndentation.ql,2
 ImproperCheckReturnValueScanf.ql,-1
