@@ -257,3 +257,4 @@ OverrunWriteProductFlow.ql,3
 MissingCheckScanf.ql,9
 ConstantSizeArrayOffByOne.ql,1
 CommaBeforeMisleadingIndentation.ql,1
+WordexpTainted.ql,1
