@@ -257,3 +257,4 @@ ArrayAccessProductFlow.ql,128
 ConstantSizeArrayOffByOne.ql,244
 CommaBeforeMisleadingIndentation.ql,1
 GlobalUseBeforeInit.ql,-1
+WordexpTainted.ql,1

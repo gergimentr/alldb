@@ -249,8 +249,8 @@ ImproperCheckReturnValueScanf.ql,1
 MissingCheckScanf.ql,14
 ArrayAccessProductFlow.ql,1015
 OverrunWriteProductFlow.ql,349
-MemoryMayNotBeFreed.ql,-1
 InvalidPointerDeref.ql,135
 CommaBeforeMisleadingIndentation.ql,1
 ConstantSizeArrayOffByOne.ql,4
 FindWrapperFunctions.ql,-1
+MemoryMayNotBeFreed.ql,-1
