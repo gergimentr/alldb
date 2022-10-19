@@ -256,4 +256,5 @@ UnusedStaticFunctions.ql,1
 UnusedLocals.ql,1
 ConstantSizeArrayOffByOne.ql,1
 CommaBeforeMisleadingIndentation.ql,1
-UntrustedDataToExternalAPI.ql,-1
+WordexpTainted.ql,1
+UntrustedDataToExternalAPI.ql,7
