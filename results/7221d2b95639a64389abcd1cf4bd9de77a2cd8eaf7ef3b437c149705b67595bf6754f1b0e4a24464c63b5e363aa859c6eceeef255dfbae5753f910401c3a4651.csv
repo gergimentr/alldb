@@ -256,3 +256,5 @@ OverrunWriteProductFlow.ql,45
 MissingCheckScanf.ql,1
 InvalidPointerDeref.ql,1
 ConstantSizeArrayOffByOne.ql,1
+CommaBeforeMisleadingIndentation.ql,1
+WordexpTainted.ql,1
