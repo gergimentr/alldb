@@ -257,3 +257,4 @@ ArrayAccessProductFlow.ql,22
 OverrunWriteProductFlow.ql,1
 MissingCheckScanf.ql,2
 CommaBeforeMisleadingIndentation.ql,1
+WordexpTainted.ql,1
