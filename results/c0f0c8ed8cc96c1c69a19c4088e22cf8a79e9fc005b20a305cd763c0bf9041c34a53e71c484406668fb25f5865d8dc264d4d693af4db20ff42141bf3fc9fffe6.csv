@@ -257,3 +257,4 @@ MissingCheckScanf.ql,21
 InvalidPointerDeref.ql,5
 ConstantSizeArrayOffByOne.ql,21
 CommaBeforeMisleadingIndentation.ql,1
+WordexpTainted.ql,1
