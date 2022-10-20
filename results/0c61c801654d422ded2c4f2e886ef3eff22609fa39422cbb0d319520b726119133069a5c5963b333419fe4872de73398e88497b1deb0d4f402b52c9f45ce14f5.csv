@@ -252,5 +252,4 @@ OverrunWriteProductFlow.ql,349
 InvalidPointerDeref.ql,135
 CommaBeforeMisleadingIndentation.ql,1
 ConstantSizeArrayOffByOne.ql,4
-FindWrapperFunctions.ql,-1
 MemoryMayNotBeFreed.ql,-1
