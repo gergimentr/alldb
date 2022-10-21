@@ -255,4 +255,6 @@ MissingCheckScanf.ql,245
 InvalidPointerDeref.ql,1
 ArrayAccessProductFlow.ql,278
 ConstantSizeArrayOffByOne.ql,243
+WordexpTainted.ql,1
+CommaBeforeMisleadingIndentation.ql,1
 GlobalUseBeforeInit.ql,-1
