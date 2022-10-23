@@ -256,4 +256,3 @@ MissingCheckScanf.ql,102
 CommaBeforeMisleadingIndentation.ql,2
 MemoryMayNotBeFreed.ql,16
 WordexpTainted.ql,1
-ImproperCheckReturnValueScanf.ql,-1
