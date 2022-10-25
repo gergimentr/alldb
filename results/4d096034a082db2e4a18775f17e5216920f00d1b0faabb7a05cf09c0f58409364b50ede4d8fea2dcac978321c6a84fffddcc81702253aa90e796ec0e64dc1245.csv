@@ -238,7 +238,6 @@ CommentedOutCode.ql,847
 DocumentApi.ql,18683
 TodoComments.ql,988
 DangerousWorksWithMultibyteOrWideCharacters.ql,1
-GlobalUseBeforeInit.ql,-1
 Debug.ql,1
 TaintedFormatStrings.ql,1
 FindIncorrectlyUsedSwitch.ql,2
@@ -255,5 +254,6 @@ ReturnStackAllocatedObject.ql,1
 CommaBeforeMisleadingIndentation.ql,1
 WordexpTainted.ql,1
 FileMayNotBeClosed.ql,-1
-FindWrapperFunctions.ql,-1
 DescriptorNeverClosed.ql,1
+FindWrapperFunctions.ql,-1
+MemoryMayNotBeFreed.ql,-1
