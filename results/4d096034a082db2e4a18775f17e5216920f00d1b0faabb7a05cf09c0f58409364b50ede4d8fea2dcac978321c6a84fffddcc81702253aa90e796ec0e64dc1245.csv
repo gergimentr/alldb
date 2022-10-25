@@ -250,10 +250,10 @@ OverrunWriteProductFlow.ql,349
 MissingCheckScanf.ql,14
 InvalidPointerDeref.ql,135
 ConstantSizeArrayOffByOne.ql,4
-MemoryMayNotBeFreed.ql,-1
 InitialisationNotRun.ql,16
 ReturnStackAllocatedObject.ql,1
 CommaBeforeMisleadingIndentation.ql,1
 WordexpTainted.ql,1
 FileMayNotBeClosed.ql,-1
 FindWrapperFunctions.ql,-1
+DescriptorNeverClosed.ql,1
