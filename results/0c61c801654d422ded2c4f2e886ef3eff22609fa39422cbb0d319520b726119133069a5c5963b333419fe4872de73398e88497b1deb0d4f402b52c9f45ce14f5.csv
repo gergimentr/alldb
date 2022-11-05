@@ -252,6 +252,6 @@ InvalidPointerDeref.ql,135
 CommaBeforeMisleadingIndentation.ql,1
 ConstantSizeArrayOffByOne.ql,4
 WordexpTainted.ql,1
-FindWrapperFunctions.ql,-1
 DescriptorNeverClosed.ql,1
 ReturnStackAllocatedObject.ql,1
+FindWrapperFunctions.ql,-1
