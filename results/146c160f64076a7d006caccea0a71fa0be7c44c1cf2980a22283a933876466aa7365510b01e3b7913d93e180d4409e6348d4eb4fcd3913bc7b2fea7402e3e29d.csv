@@ -257,4 +257,3 @@ InvalidPointerDeref.ql,1
 ConstantSizeArrayOffByOne.ql,1
 CommaBeforeMisleadingIndentation.ql,2
 WordexpTainted.ql,1
-GlobalUseBeforeInit.ql,-1
