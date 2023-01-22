@@ -255,3 +255,4 @@ DescriptorNeverClosed.ql,1
 ReturnStackAllocatedObject.ql,1
 FindWrapperFunctions.ql,4
 FileMayNotBeClosed.ql,-1
+GlobalUseBeforeInit.ql,-1
