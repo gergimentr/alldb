@@ -256,4 +256,4 @@ ConstantSizeArrayOffByOne.ql,1
 FileMayNotBeClosed.ql,69
 CommaBeforeMisleadingIndentation.ql,2
 WordexpTainted.ql,1
-GlobalUseBeforeInit.ql,-1
+ImproperCheckReturnValueScanf.ql,-1
