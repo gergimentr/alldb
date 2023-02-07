@@ -258,3 +258,4 @@ InvalidPointerDeref.ql,10
 ConstantSizeArrayOffByOne.ql,11
 CommaBeforeMisleadingIndentation.ql,1
 WordexpTainted.ql,1
+BufferAccessWithIncorrectLengthValue.ql,1

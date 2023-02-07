@@ -258,3 +258,4 @@ ConstantSizeArrayOffByOne.ql,1
 CommaBeforeMisleadingIndentation.ql,1
 WordexpTainted.ql,1
 UntrustedDataToExternalAPI.ql,7
+BufferAccessWithIncorrectLengthValue.ql,1
