@@ -258,3 +258,4 @@ OverrunWriteProductFlow.ql,1
 ConstantSizeArrayOffByOne.ql,1
 WordexpTainted.ql,1
 CommaBeforeMisleadingIndentation.ql,1
+BufferAccessWithIncorrectLengthValue.ql,1
