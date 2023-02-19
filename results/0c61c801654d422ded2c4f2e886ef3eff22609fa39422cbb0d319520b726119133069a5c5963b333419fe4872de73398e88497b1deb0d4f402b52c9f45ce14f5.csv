@@ -256,3 +256,4 @@ ReturnStackAllocatedObject.ql,1
 FindWrapperFunctions.ql,4
 BufferAccessWithIncorrectLengthValue.ql,1
 GlobalUseBeforeInit.ql,-1
+FileMayNotBeClosed.ql,-1
