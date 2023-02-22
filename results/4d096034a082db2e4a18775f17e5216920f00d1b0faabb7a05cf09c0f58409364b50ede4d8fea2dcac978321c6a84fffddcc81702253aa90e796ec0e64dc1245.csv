@@ -255,5 +255,4 @@ CommaBeforeMisleadingIndentation.ql,1
 WordexpTainted.ql,1
 DescriptorNeverClosed.ql,1
 BufferAccessWithIncorrectLengthValue.ql,1
-FindWrapperFunctions.ql,-1
 FileMayNotBeClosed.ql,-1
